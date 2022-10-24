@@ -22,35 +22,55 @@ const SKILLS = [
       "type": "React",
       "level": 85,
       "color": {
-        "bar": "brown"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Javascript",
       "level": 85,
       "color": {
-        "bar": "yellow"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Angular",
       "level": 80,
       "color": {
-        "bar": "blue"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Vue.js",
       "level": 85,
       "color": {
-        "bar": "orange"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Next.js",
       "level": 80,
       "color": {
-        "bar": "brown"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
@@ -68,35 +88,55 @@ const SKILLS = [
       "type": "Python",
       "level": 85,
       "color": {
-        "bar": "blue"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "MySQL",
       "level": 85,
       "color": {
-        "bar": "black"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "MongoDB",
       "level": 80,
       "color": {
-        "bar": "pink"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Solidity",
       "level": 80,
       "color": {
-        "bar": "black"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     },
     {
       "type": "Rust",
       "level": 75,
       "color": {
-        "bar": "blue"
+        "bar": "#3498db",
+        "title": {
+          "background": "#2980b9",
+          "text": "black"
+        }
       }
     }
   ]
