@@ -1,8 +1,5 @@
 # Getting Started with Create React App
 
-## https://port-folio-d151e.web.app/
-
-
 # Using:
 ### Creating By React Js:
 
