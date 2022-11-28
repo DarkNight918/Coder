@@ -29,7 +29,7 @@ const SubscribeBox = () => {
                     <div className="sub-box-single col-md-4 pb-4">
                         <h2 className="service-font1">FOLLOW ME</h2>
                         <div className="sub-fllow-icon">
-                            <a href="https://www.linkedin.com/in/Hardy918/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
+                            <a href="https://www.linkedin.com/in/hardy-wilkinson-853750258/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
                             <a href="https://github.com/DarkNight918"><FontAwesomeIcon icon={faGithub}/></a>
                             <a href="https://t.me/DarkNight918"><FontAwesomeIcon icon={faTelegram}/></a>
                             <a href="https://discordapp.com/users/1015255707421003776"><FontAwesomeIcon icon={faDiscord}/></a>

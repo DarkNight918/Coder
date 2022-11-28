@@ -21,7 +21,7 @@ const Footer = () => {
                         <p>I'm a full-stack engineer with 7 years specializing in web and mobile development, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, and performance improvements.</p>
 
                         <div className="ficons">
-                            <a href="https://www.linkedin.com/in/Hardy918/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
+                            <a href="https://www.linkedin.com/in/hardy-wilkinson-853750258/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
                             <a href="https://github.com/DarkNight918"><FontAwesomeIcon icon={faGithub}/></a>
                             <a href="https://t.me/DarkNight918"><FontAwesomeIcon icon={faTelegram}/></a>
                             <a href="https://discordapp.com/users/1015255707421003776"><FontAwesomeIcon icon={faDiscord}/></a>
